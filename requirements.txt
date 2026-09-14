@@ -1,0 +1,11 @@
+# Tested caregiver deployment stack (Python 3.11 recommended)
+mediapipe==0.10.35
+opencv-contrib-python==4.13.0.92
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.8.0
+joblib==1.5.3
+tqdm==4.67.3
+openpyxl==3.1.5
+
